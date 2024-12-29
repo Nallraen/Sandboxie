@@ -4,10 +4,10 @@
 ; Use commandline to populate:
 ; ISCC.exe /ORelease Sandboxie-Plus.iss /DMyAppVersion=%SbiePlusVer% /DMyAppArch=x64 /DMyAppSrc=SbiePlus64
 ;
-;#define MyAppVersion "0.7.5"
-;#define MyDrvVersion "5.49.8"
-;#define MyAppArch "x64"
-;#define MyAppSrc "SbiePlus64"
+#define MyAppVersion "0.7.5"
+#define MyDrvVersion "5.49.8"
+#define MyAppArch "x64"
+#define MyAppSrc "SbiePlus64"
 
 
 [Setup]
